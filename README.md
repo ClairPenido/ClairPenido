@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats)
+
 <!--
 **ClairPenido/ClairPenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
