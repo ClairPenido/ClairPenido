@@ -1,6 +1,7 @@
-### Hi there 👋
 
 
+
+![CyberPunk Header GitHub](https://user-images.githubusercontent.com/82115900/167968107-d3172246-e976-4547-8cb4-d3387efe0414.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats)
 
