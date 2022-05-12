@@ -1,17 +1,12 @@
 
 ![CyberPunk Header GitHub (1)](https://user-images.githubusercontent.com/82115900/167969149-58ea0d40-6ac2-4973-8d72-f56396fae6e0.png)
 
+Apaixonada por chá :tea: e devoradora de livros :books:
+jogo uns gamers aí. :video_game:
+
 Sou formada em Engenharia da Computação
 
 Atualmente estudante Full Stack na empresa Trybe
-
-Aqui alguns repositórios de que me orgulho:
-1. Meus Projetos
- - Meu Portifólio [Portifolio](https://github.com/ClairPenido/ClairPenido.github.io)
- - Pixels Art [Pixel Art](https://clairpenido.github.io/Pixels-Art-Project/)
- - To-do List
-2. Repositório de Exercícios Trybe
-3. Certificado Aluracard 
 
 
 
