@@ -10,7 +10,7 @@ Atualmente estudante Full Stack na empresa Trybe
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClairPenido)](https://github.com/ClairPenido/github-readme-stats)
 
