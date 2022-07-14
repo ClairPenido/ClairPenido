@@ -14,7 +14,7 @@ Atualmente estudante Full Stack na empresa Trybe
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClairPenido&theme=outrun)](https://github.com/ClairPenido/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@clair_penido&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ClairPenido/ClairPenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
