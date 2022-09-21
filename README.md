@@ -16,7 +16,7 @@ Atualmente estudante Full Stack na empresa Trybe
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation]ClairPenido
+![Snake animation](https://github.com/ClairPenido/ClairPenido/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **ClairPenido/ClairPenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
