@@ -1,19 +1,18 @@
 
 ![CyberPunk Header GitHub (1)](https://user-images.githubusercontent.com/82115900/167969149-58ea0d40-6ac2-4973-8d72-f56396fae6e0.png)
 
+<h2> Sobre mim: </h2>
 <p> 
-<h2> Formada em Engenharia da Computação e </h2> 
-<h2> Atualmente estudante de desenvolvimento web full-stack na empresa Trybe </h2> 
+ Formada em Engenharia da Computação e   <br>
+ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe 
 </p>
 
 <p> 
-<h3> Sou apaixonada por chá 🍵 e devoradora de livros 📚 </h3>  
-<h3> Jogo uns gamers aí 🎮 🖱️ </h3>
+ Sou apaixonada por chá 🍵 e devoradora de livros 📚 <br>
+ Jogo uns gamers aí 🎮 🖱️ 
 </p>
 
-
-
-# Linguagens aprendidas:
+<h2> Linguagens aprendidas: </h2>
 
 <p align="center">
 <a> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
@@ -46,13 +45,7 @@
 </p>
 
 
-
-</div>
-
-
-
-
-# Acompanhe minhas outras redes:
+<h2> Acompanhe minhas outras redes: </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/clair-de-andrade-penido/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
