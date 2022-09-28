@@ -1,13 +1,17 @@
 
 ![CyberPunk Header GitHub (1)](https://user-images.githubusercontent.com/82115900/167969149-58ea0d40-6ac2-4973-8d72-f56396fae6e0.png)
 
+<p> 
+<h2> Formada em Engenharia da Computação e </h2> 
+<h2> Atualmente estudante de desenvolvimento web full-stack na empresa Trybe </h2> 
+</p>
 
-Apaixonada por chá :tea: e devoradora de livros :books: 
-jogo uns gamers aí. :video_game:
+<p> 
+<h3> Sou apaixonada por chá 🍵 e devoradora de livros 📚 </h3>  
+<h3> Jogo uns gamers aí 🎮 🖱️ </h3>
+</p>
 
-Sou formada em Engenharia da Computação 
 
-Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 
 # Linguagens aprendidas:
 
@@ -25,7 +29,7 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 
 <!-- Status -->
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/ClairPenido/github-readme-stats">
 <img  align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido&layout=compact&theme=outrun"/>
@@ -38,6 +42,10 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&layout=compact&theme=outrun"/>
 </a>
+
+</p>
+
+
 
 </div>
 
