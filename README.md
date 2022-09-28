@@ -10,6 +10,8 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 
 # Linguagens aprendidas:
 
+<p align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,19 +21,31 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
+</p>
 
+<!-- Status -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido&theme=outrun)](https://github.com/ClairPenido/github-readme-stats)
+<p align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClairPenido&theme=outrun)](https://github.com/ClairPenido/github-readme-stats)
+<a href="https://github.com/ClairPenido/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido&theme=outrun" />
+</a>
+<a href="https://github.com/ClairPenido/github-readme-stats">
+<img hspace="8" align="center" src="https://github-readme-stats.vercel.app/api?username=ClairPenido&theme=outrun" />
+</a>
+
+</p>
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 # Acompanhe minhas outras redes:
 
+<p align="center">
 <a href="https://www.linkedin.com/in/clair-de-andrade-penido/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/clair_penido/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+</p>
 
 ![Snake animation](https://github.com/ClairPenido/ClairPenido/blob/output/github-contribution-grid-snake.svg)
 
