@@ -4,9 +4,20 @@
 Apaixonada por chá :tea: e devoradora de livros :books:
 jogo uns gamers aí. :video_game:
 
-Sou formada em Engenharia da Computação
+Sou formada em Engenharia da Computação 
 
-Atualmente estudante Full Stack na empresa Trybe
+Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
+
+# Linguagens aprendidas:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 
 
@@ -16,19 +27,12 @@ Atualmente estudante Full Stack na empresa Trybe
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
+# Acompanhe minhas outras redes:
+
+<a href="https://www.linkedin.com/in/clair-de-andrade-penido/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/clair_penido/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
 ![Snake animation](https://github.com/ClairPenido/ClairPenido/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**ClairPenido/ClairPenido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
