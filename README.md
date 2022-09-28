@@ -1,7 +1,8 @@
 
 ![CyberPunk Header GitHub (1)](https://user-images.githubusercontent.com/82115900/167969149-58ea0d40-6ac2-4973-8d72-f56396fae6e0.png)
 
-Apaixonada por chá :tea: e devoradora de livros :books:
+
+Apaixonada por chá :tea: e devoradora de livros :books: 
 jogo uns gamers aí. :video_game:
 
 Sou formada em Engenharia da Computação 
@@ -11,16 +12,15 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 # Linguagens aprendidas:
 
 <p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
+<a> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
+<a> <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> </a>
+<a> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </a>
+<a> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </a>
+<a> <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> </a>
+<a> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+<a> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> </a>
+<a> <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"> </a>
+<a> <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"> </a>
 </p>
 
 <!-- Status -->
@@ -35,11 +35,13 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 <img hspace="10" align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=ClairPenido&theme=outrun"/>
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&layout=compact&theme=outrun"/>
+</a>
+
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img hspace="10" align="center" width="380px" src="https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&layout=compact&theme=outrun"/>
-</a>
+
 
 
 # Acompanhe minhas outras redes:
