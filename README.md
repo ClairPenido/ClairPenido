@@ -25,7 +25,7 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 
 <!-- Status -->
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/ClairPenido/github-readme-stats">
 <img  align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClairPenido&layout=compact&theme=outrun"/>
@@ -35,10 +35,12 @@ Atualmente estudante de desenvolvimento web full-stack na empresa Trybe
 <img hspace="10" align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=ClairPenido&theme=outrun"/>
 </a>
 
-</p>
+</div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img hspace="10" align="center" width="380px" src="https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&layout=compact&theme=outrun"/>
+</a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clair_penido&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 # Acompanhe minhas outras redes:
 
