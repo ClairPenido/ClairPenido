@@ -2,16 +2,14 @@
 ![CyberPunk Header GitHub (1)](https://user-images.githubusercontent.com/82115900/167969149-58ea0d40-6ac2-4973-8d72-f56396fae6e0.png)
 
 <h2> Sobre mim: </h2>
-<p> 
- Formada em Engenharia da Computação e   <br>
- Atualmente desenvolvedora web full-stack
-</p>
 
-<p> 
- Sou apaixonada por chá 🍵 e devoradora de livros 📚 <br>
- Jogo uns gamers aí 🎮 🖱️ 
-</p>
-<p> 
+- 🌱 Estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/) desde fevereiro de 2022.
+- 💰 Conciliando projetos pessoais com projetos da Trybe.
+- 🎨 Já tive contato com React, Redux, ContextAPI, CSS e MaterialUI no Front-end.
+- 🖥️ Já estudei Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end.
+- 💻 Atualmente estudando Python e Data Science;
+- 💡 Sou apaixonada por chá 🍵 e devoradora de livros 📚
+
 :mailbox: clairpenido@gmail.com
 :phone: (61) 992695978
 </p>
