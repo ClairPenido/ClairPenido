@@ -73,6 +73,5 @@
 
 </p>
 
-![Snake animation](https://github.com/ClairPenido/ClairPenido/blob/output/github-contribution-grid-snake.svg)
 
 
