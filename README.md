@@ -7,8 +7,7 @@
 - 💰 Conciliando projetos pessoais com estudos em programação.
 - 🎨 Já tive contato com React, React Native, Redux, ContextAPI, CSS e MaterialUI no Front-end.
 - 🖥️ Já estudei Node.js, MySQL, Sequelize, Javascript, Typescript, MongoDB e Python no Back-end.
- <!-- - 💻 Atualmente estudando Python e Data Science; -->
-- 💡 Sou apaixonada por chá 🍵 e devoradora de livros 📚 e gamer.
+- 💡 Sou apaixonada por chá 🍵 e devoradora de livros 📚 e gamer. <!-- - 💻 Atualmente estudando Python e Data Science; -->
 
 :mailbox: clairpenido@gmail.com
 :phone: (61) 992695978
