@@ -3,12 +3,12 @@
 
 <h2> Sobre mim: </h2>
 
-- 🌱 Estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/) desde fevereiro de 2022.
-- 💰 Conciliando projetos pessoais com projetos da Trybe.
-- 🎨 Já tive contato com React, Redux, ContextAPI, CSS e MaterialUI no Front-end.
-- 🖥️ Já estudei Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end.
-- 💻 Atualmente estudando Python e Data Science;
-- 💡 Sou apaixonada por chá 🍵 e devoradora de livros 📚
+- 🌱 Formada em Eng. da Computação e desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/).
+- 💰 Conciliando projetos pessoais com estudos em programação.
+- 🎨 Já tive contato com React, React Native, Redux, ContextAPI, CSS e MaterialUI no Front-end.
+- 🖥️ Já estudei Node.js, MySQL, Sequelize, Javascript, Typescript, MongoDB e Python no Back-end.
+ <!-- - 💻 Atualmente estudando Python e Data Science; -->
+- 💡 Sou apaixonada por chá 🍵 e devoradora de livros 📚 e gamer.
 
 :mailbox: clairpenido@gmail.com
 :phone: (61) 992695978
